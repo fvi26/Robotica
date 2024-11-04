@@ -47,8 +47,14 @@ O greșeală face LED-ul să devină roșu. Pentru a corecta cuvântul, se va fo
 După 30 de secunde, runda se termină, iar în terminal se va afișa scorul: numărul total de cuvinte scrise corect.
 Jocul se poate opri oricând cu butonul de start/stop.
 
-Poza cu montajul:
+Poza cu montajul pe wowki.com:
+![image](https://github.com/user-attachments/assets/83efe127-279c-44bc-a858-b10ccc0e2bd8)
+
+
+Poza cu montajul fizic:
 ![image](https://github.com/user-attachments/assets/fa5229af-4b38-491f-87b0-3b599ed60e4a)
 
 Video cu montajul:
+https://youtube.com/shorts/pjT0c-WBdCo
+
 
